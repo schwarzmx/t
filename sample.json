@@ -1,0 +1,9 @@
+{
+   "tasks" : [
+      {
+         "id" : 1,
+         "state" : "Todo",
+         "text" : "include cxxopts instead of depending on it"
+      }
+   ]
+}
