@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <algorithm>
-#include <cxxopts.hpp>
+#include <cxxopts/cxxopts.hpp>
 #include <json/json.h>
 
 #define TODO "Todo"
